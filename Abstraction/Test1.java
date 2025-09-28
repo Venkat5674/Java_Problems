@@ -1,5 +1,5 @@
 package abstraction;
-
+//default package
 public class Test1 {
     public static void main(String[] args) {
         // Use child class object instead of abstract class
