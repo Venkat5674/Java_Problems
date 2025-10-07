@@ -29,7 +29,7 @@ public class MaxSubarrayBruteForce {
                 }
             }
 
-            System.out.println(maxSum);
+            System.out.println("The Maximum Sum : " + maxSum);
         }
 
         sc.close();
