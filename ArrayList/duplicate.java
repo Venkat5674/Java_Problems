@@ -16,3 +16,4 @@ class Example3 {
         System.out.println("After removing duplicates: " + unique);
     }
 }
+}
