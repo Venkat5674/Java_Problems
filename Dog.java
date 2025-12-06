@@ -13,10 +13,10 @@ class Dog {
 
     public static void main(String[] args) {
         // creating Objects
-        Dog d1 = new Dog("Bruno", "Labrador");
-        Dog d2 = new Dog("Tommy", "German Shepherd");
+        Dog dog1 = new Dog("Bruno", "Labrador");
+        Dog dog2 = new Dog("Tommy", "German Shepherd");
 
-        d1.bark();
-        d2.bark();
+        dog1.bark();
+        dog2.bark();
     }
 }
