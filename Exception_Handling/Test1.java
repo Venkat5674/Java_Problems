@@ -1,6 +1,6 @@
 public class Test1 {
 	public static void main(String[] args) {
-		int[] a = {10,20,30};
+		int[] a = {10,20,30,40};
 		
 		try {
 			System.out.println("try block starts");
